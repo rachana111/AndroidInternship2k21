@@ -14,7 +14,7 @@
 
 
 
-            <item
+    <item
         android:title="Contact"
         android:id="@+id/contact"
         />
